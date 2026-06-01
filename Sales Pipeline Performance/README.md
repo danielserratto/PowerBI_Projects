@@ -32,8 +32,8 @@ Shows total deal values by sales stage for each sales rep, including won, lost, 
 
 ## ⚙️ Technical Implementation
 
-### Data Modelling
-A clean star schema model in which four fact tables are used, with all corresponding dimensions connected to these fact tables. This structure ensures efficient and well-organized management of metrics and KPIs, enabling optimal dashboard development and performance.
+### ⭐️ Data Modelling
+A clean star-schema model in which 5 fact-tables are used, with all corresponding dimensions connected to these fact-tables. This structure ensures efficient and well-organized management of metrics and KPIs, enabling optimal dashboard development and performance.
 
 <img width="517" height="771" alt="WhatsApp Image 2026-06-01 at 22 46 46" src="https://github.com/user-attachments/assets/217116a1-bcdf-4c34-8519-b458166effa5" />
 

@@ -39,7 +39,7 @@ The dashboard contains multiple **complex calculations** that enable the deliver
 
 * Developed **complex measures** to support advanced pipeline analysis across multiple reporting dimensions. 
 * Leveraged **Databricks** and **SQL** to perform extensive data transformations before loading the data model.
-* **Combined multiple raw data **sources to create a unified, reliable dataset.
+* Combined **multiple raw data** sources to create a unified, reliable dataset.
 * Applied data **cleansing and standardization** processes to improve data quality and consistency.
 * Structured and **optimized** fact tables to support scalable reporting, accurate KPIs, and high-performance dashboard interactions.
 
